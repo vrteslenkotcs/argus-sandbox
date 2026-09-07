@@ -18,6 +18,6 @@ jobs:
       contents: write
       pull-requests: write
     steps:
-      - uses: taiga-family/argus@main
+      - uses: vrteslenkotcs/argus@feat/UIKIT-7845
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
