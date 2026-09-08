@@ -1,3 +1,2 @@
-screenshotsDiffsPaths: [
-    '.*.diff.png'
-]
+diff-paths:
+    - '.*\.diff\.png'
