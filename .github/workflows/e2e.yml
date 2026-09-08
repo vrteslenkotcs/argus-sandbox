@@ -1,7 +1,7 @@
 name: ⚙️ E2E testing
 on: pull_request
 
-# Trigger a fresh E2E run to validate Argus Action logging.
+# Trigger a fresh E2E run to validate Argus Action logging
 
 jobs:
   e2e:
