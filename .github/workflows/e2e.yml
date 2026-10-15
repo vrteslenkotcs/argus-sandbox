@@ -18,4 +18,4 @@ jobs:
           retention-days: 1
 
       - run: sleep 3s
-      - run: exit 1 # Fail job to trigger Argus failure report
+      - run: exit 1 # Fail job to trigger Argus failure report (rerun)
