@@ -1,4 +1,2 @@
 diff-paths:
     - '.*\.diff\.png'
-branches-ignore:
-    - 'test/argus-logging'
